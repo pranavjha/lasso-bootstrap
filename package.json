@@ -2,6 +2,9 @@
     "name": "lasso-bootstrap",
     "main": "index.js",
     "version": "0.0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
     "dependencies": {
         "bootstrap": "*",
         "lasso-less": "*",
