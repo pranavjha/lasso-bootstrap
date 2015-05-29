@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "lasso-less"
+    ],
+    "outputDir": "static",
+    "fingerprintsEnabled": false,
+    "minify": false,
+    "resolveCssUrls": true,
+    "bundlingEnabled": false
+}

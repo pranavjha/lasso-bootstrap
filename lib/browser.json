@@ -1,0 +1,5 @@
+{
+    "dependencies": [
+        "require:bootstrap/less/bootstrap.less"
+    ]
+}
